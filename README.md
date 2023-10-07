@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deknaa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, and PHP
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
