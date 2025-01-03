@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @deknaa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning about woman want
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to code
 
 <!---
 deknaa/deknaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
